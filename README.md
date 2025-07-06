@@ -3,11 +3,16 @@ This project is an interactive quiz game web application that presents users wit
 
 ## Features
 Multiple-choice quiz interface
+
 Displays questions one by one
+
 Calculates and shows final score
+
 Option to include question types like:
    Single or multiple select
+   
    Fill in the blanks
+   
    True or false
 ## Technologies Used
 HTML
