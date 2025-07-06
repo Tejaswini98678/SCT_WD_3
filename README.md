@@ -9,6 +9,7 @@ Displays questions one by one
 Calculates and shows final score
 
 Option to include question types like:
+
    Single or multiple select
    
    Fill in the blanks
